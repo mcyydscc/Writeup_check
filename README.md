@@ -95,7 +95,7 @@ pip install PyMuPDF pillow imagehash opencv-python numpy tqdm
 1. 将脚本保存为 `characteristic_check.py`。
 2. 在终端中运行以下命令：
    ```bash
-   python 3.py
+   python characteristic_check.py
    ```
    脚本会自动从 `wp` 目录中读取PDF文件，并将结果输出到 `similar_results` 目录。
 
